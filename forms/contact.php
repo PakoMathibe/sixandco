@@ -9,7 +9,7 @@
 // ============================================
 
 // Replace with your receiving email address
-$receiving_email_address = 'info@sixandco6.co.za';
+$receiving_email_address = 'pako.mathibe@gmail.com';
 
 // Company details for email branding
 $company_name = 'SIXandCO';
